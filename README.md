@@ -1,4 +1,4 @@
-# Fast-food tycoon LECK EIER
+# Fast-food tycoon#
 
-From Perpper0range and SnappyChunck
+#From Perpper0range and SnappyChunck
  
