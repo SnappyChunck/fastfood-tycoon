@@ -1,4 +1,4 @@
-# Fast-food tycoon#
+# Fast-food tycoon
 
 #From Perpper0range and SnappyChunck
  
